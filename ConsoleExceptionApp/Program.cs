@@ -35,6 +35,7 @@
     //main method
         public static void Main(String[] args)
         {
+        //this is for user input
         Console.WriteLine("Enter first number:");
         int num1 =Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Enter second number");
